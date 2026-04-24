@@ -2,7 +2,7 @@ case_id,query,model,context,history,top_k_documents,expect_keywords
 Q01,"Explique, de forma prática, o que a Resolução Normativa nº 12/2017 do TCE-GO regula sobre processo eletrônico. Liste: objetivo, quem é obrigado a usar, e o fluxo básico de tramitação.",gemini-2.5-pro-dev,,,true,12/2017; processo eletrônico; tramitação; assinatura
 Q01,"Explique, de forma prática, o que a Resolução Normativa nº 12/2017 do TCE-GO regula sobre processo eletrônico. Liste: objetivo, quem é obrigado a usar, e o fluxo básico de tramitação.",vertex_ai/gemini-2.5-flash-dev,,,true,12/2017; processo eletrônico; tramitação; assinatur
 
-sejio uoajojoi  oiaa
+teste de conflito main
 
 segue teste para commit, enviei o desafio antes de pegar o que tinha que fazer 
 
