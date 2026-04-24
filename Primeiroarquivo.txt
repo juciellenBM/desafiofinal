@@ -5,3 +5,5 @@ Q01,"Explique, de forma prática, o que a Resolução Normativa nº 12/2017 do T
 sejio uoajojoi  oiaa
 
 segue teste para commit, enviei o desafio antes de pegar o que tinha que fazer 
+
+teste de conflitro e merge para verificação de alteraçãoes 
